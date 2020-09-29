@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T11:04:48.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Z3jpKbpMzG2Vnwq5xvpN" version="13.7.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-29T11:06:04.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="tWhG7Ht2d6xV6E_Lb37j" version="13.7.5" type="github" pages="5">
   <diagram id="dVBr0Uaqepzrbmr3REci" name="School-sample">
     <mxGraphModel dx="1283" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -626,6 +626,9 @@
         </mxCell>
         <mxCell id="ApSvqryaxvGqRymmTzso-50" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="ApSvqryaxvGqRymmTzso-48">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApSvqryaxvGqRymmTzso-51" value="Jens, Zacharias og Mathias 2x (Madsen og Thiim)" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;" vertex="1" parent="rIqLiGmPKUu8nChZYjgC-1">
+          <mxGeometry x="390" width="320" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
